@@ -45,26 +45,37 @@ QUESTION 2
  let a = 2;
  let b = 3;
 
- let sum = (a+b);
- console.log(sum);
+ 1.let sum = (a+b);
+   console.log(sum);
 
- let division = (b/a);
- console.log(division);
+ 2. let division = (b/a);
+    console.log(division);
  
  -Assignment operators;
 
-a = a+3;
-console.log(a);
+1. a = a+3;
+   console.log(a);
 
-b *=6;
-console.log(b);
+2. b *=6;
+   console.log(b);
 
 -Comparison operators;
 
-let x = 2;
-console.log(x > sum);
+1. let x = 2;
+   console.log(x > sum);
 
-let y = '2';
-console.log(y === x);
+2. let y = '2';
+   console.log(y === x);
 
 -Logical operators;
+let x = 6;
+let y = 20;
+
+1. console.log(x < 10 && y > 1);
+
+2. console.log(x > 10 || y > 1);
+
+-Bitwise operator;
+
+1. 
+
