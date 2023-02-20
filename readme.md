@@ -77,5 +77,8 @@ let y = 20;
 
 -Bitwise operator;
 
-1. 
+1. let x = 6 & 1;
+   console.log(x);
 
+ 2. let y = 5 << 1; 
+    console.log(y);
