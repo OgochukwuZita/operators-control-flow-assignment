@@ -28,5 +28,6 @@ else if (student !== 'social science') {
 }
 
 //Question 4
+i = 1; 8; 15
 
 
